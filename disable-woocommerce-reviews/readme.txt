@@ -2,9 +2,9 @@
 Contributors: pipdig
 Tags: woocommerce, product, reviews, ecommerce, woo, commerce, disable comments, disable reviews, woocommerce review
 Requires at least: 4.2
-Tested up to: 6.7
+Tested up to: 6.8
 WC requires at least: 2.0
-WC tested up to: 9.1
+WC tested up to: 9.8
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -27,7 +27,7 @@ There are no settings, simply activate the plugin and you're all set. Deactivate
 * Super lightweight - less than 3KB plugin!
 * Changes can be reverted at any time. Simply deactivate this plugin to re-enable WooCommerce reviews.
 
-This free plugin was developed by [pipdig](https://www.pipdig.co/). We are in no way affiliated with WooThemes, we just love WooCommerce!
+This free plugin is brought to you by [pipdig](https://www.pipdig.co/)
 
 == Changelog ==
 
