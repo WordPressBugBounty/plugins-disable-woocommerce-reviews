@@ -2,9 +2,9 @@
 Contributors: pipdig
 Tags: woocommerce, product, reviews, ecommerce, woo, commerce, disable comments, disable reviews, woocommerce review
 Requires at least: 4.2
-Tested up to: 6.8
+Tested up to: 6.9
 WC requires at least: 2.0
-WC tested up to: 9.8
+WC tested up to: 11
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
